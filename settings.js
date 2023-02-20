@@ -22,9 +22,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['201227179105'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© YoUsSef Al SoLtAn ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -34,13 +34,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'BOT-ALSOLTAN' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'YoUsSef Al SoLtAn' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  '@201227179105 By YoUsSeF Al SoLtAn , ' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_BOT-ALSOLTAN_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -49,13 +49,13 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 global.OWNER_REACT =  '🐼'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
+global.BUTTON1 = 'YoUsSef Al SoLtAn'
 //👇 URL button 2 name
-global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
+global.BUTTON2 = 'YoUsSef Al SoLtAn'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
+global.BUTTON1_URL = 'https://www.instagram.com/1y._.o2'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
+global.BUTTON2_URL = 'https://youtube.com/@YOUSSEF-ALSOLTN'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["201227179105"]
 
 
 
@@ -105,8 +105,8 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['201227179105'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['201227179105'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '_Janiya_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
