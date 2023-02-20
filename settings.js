@@ -38,7 +38,7 @@ global.botnma =  'BOT-ALSOLTAN'
 //👇 Your name
 global.ownernma =  'YoUsSef Al SoLtAn' 
 //👇 Sticker package name
-global.packname =  '@201227179105 By YoUsSeF Al SoLtAn , ' 
+global.packname =  'By YoUsSeF Al SoLtAn ,' 
 //👇 Sticker Author Name
 global.author =  '_BOT-ALSOLTAN_' 
 //👇 Kick And Auto Delete Group link Senders
@@ -46,7 +46,7 @@ global.antilink =  'false'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '🐼'
+global.OWNER_REACT =  '🤠'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = 'YoUsSef Al SoLtAn'
