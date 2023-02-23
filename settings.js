@@ -114,14 +114,14 @@ global.sp = '🔵'
 
 
 global.mess = {
-    success: '✅تم',
+    success: '✅ Done!',
     admin: '*Only admins can use this command !*',
     botAdmin: '*Please admin the bot first !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ الرجاء الانتظار ... تابعني هنا https://www.instagram.com/1y._.o2*',
+    wait: '*♲ Please Wait ...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
