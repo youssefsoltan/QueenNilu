@@ -28,7 +28,7 @@ global.cap = '© YoUsSef Al SoLtAn ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'on'
+global.INBOX_BLOCK =  'off'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
