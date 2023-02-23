@@ -18,7 +18,7 @@ const chalk = require('chalk')
 
 
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = 'false'
+global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
@@ -28,7 +28,7 @@ global.cap = '© YoUsSef Al SoLtAn ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'off'
+global.INBOX_BLOCK =  'on'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
@@ -42,7 +42,7 @@ global.packname =  'By YoUsSeF Al SoLtAn ,'
 //👇 Sticker Author Name
 global.author =  '_BOT-ALSOLTAN_' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -107,21 +107,21 @@ global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
 global.pemilik = ['201227179105'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['201227179105'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pengguna = '_alsoltan_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
 
 
 global.mess = {
-    success: '✅ Done!',
+    success: '✅تم',
     admin: '*Only admins can use this command !*',
     botAdmin: '*Please admin the bot first !*',
     owner: '*Sorry, this command is only for the owner !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
+    wait: '*♲ الرجاء الانتظار ... تابعني هنا https://www.instagram.com/1y._.o2*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
